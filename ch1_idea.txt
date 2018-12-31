@@ -1,0 +1,3 @@
+example (p q r : Prop) (H : p → q ∨ r) : p ∧ ¬ q → r :=
+example (p q r : Prop) (H : p → q ∨ r) : p ∧ ¬ q → r :=
+
