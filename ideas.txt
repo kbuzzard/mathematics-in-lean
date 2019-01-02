@@ -1,0 +1,13 @@
+one part: exercises (one sphinx page per ...)
+one part: glossary and
+
+
+Ideas for chapters:
+
+1) intro
+2) forall and or etc
+3) functions (inj of inj is inj)
+4) basic ring stuff [enough to solve 37a=m-n ->37(-a)=n-m etc]
+5) Equiv relns. Cong mod 37 is an equiv reln
+6) Make complex numbers.
+7) Make top spaces or something
