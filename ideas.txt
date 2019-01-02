@@ -8,6 +8,6 @@ Ideas for chapters:
 2) forall and or etc
 3) functions (inj of inj is inj)
 4) basic ring stuff [enough to solve 37a=m-n ->37(-a)=n-m etc]
-5) Equiv relns. Cong mod 37 is an equiv reln
+5) Equiv relns. Easy stuff: a~b and c~b and c~d -> a~d.  euclidean + reflexive iff equiv reln. Equiv relns = partitions. Cong mod 37 is an equiv reln -- needs ring stuff. Lagrange theorem! Is that hard?
 6) Make complex numbers.
 7) Make top spaces or something
