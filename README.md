@@ -3,9 +3,12 @@ Learning material for mathematicians who want to learn Lean
 
 ### What is here?
 
-Over the next few days I will add some exercises in basic logic and mathematics.
+Not much. There is an website [here](http://wwwf.imperial.ac.uk/~buzzard/lean_together/source/leantogether.html) which is more useful for a complete beginner.
+
+In `src/Exercises` there are some basic exercises. Explanations of how to attempt them are on the website.
 
 ### What are future plans?
 
-I would like to document some basic tactics here, and also document constructors and eliminators for basic types.
+More exercises!
+
 
