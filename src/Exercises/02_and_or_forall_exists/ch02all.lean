@@ -52,12 +52,13 @@ end
 
 variables (X : Type) (P Q : X → Prop)
 
-example : ∀ x, P x ∧ Q x → ∀ x, Q x ∧ P x :=
+-- sorry David
+example : (∀ x, P x ∧ Q x) → (∀ x, Q x ∧ P x) :=
 begin
   sorry
 end
 
-example : ∃ x, P x ∨ Q x → ∃ x, Q x ∨ P x :=
+example : (∃ x, P x ∨ Q x) → (∃ x, Q x ∨ P x) :=
 begin
   sorry
 end
